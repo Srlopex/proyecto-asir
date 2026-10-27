@@ -9,4 +9,5 @@ Problemas:
 - No saben qué equipos tienen ni cuándo fueron comprados.
 - Proyecto dedicado a la documentación proyecto PIMA 1ºASIR
 
-Autoría: CLS, MLD
+Autoría: MLD
+Autoría: MLD - trabajo en pareja con: CLS
